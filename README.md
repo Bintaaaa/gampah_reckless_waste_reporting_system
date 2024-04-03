@@ -37,7 +37,7 @@
 
 ## Cobain Gampah
 
-Kalo kamu mau cobain aplikasi Gampah, bukan mau liat source atau yang lainnya, silahkan ke [website Gampah](http://shamo.tanpabatasgroup.com/), atau [download Gampah](https://shamo.tanpabatasgroup.com/gampah-1.0.apk). (Sementara tidak aktif)
+Kalo kamu mau cobain aplikasi Gampah, bukan mau liat source atau yang lainnya, silahkan ke [website Gampah](http://gampah.bintaaa.com/), atau [download Gampah](https://gampah.bintaaa.com/gampah-1.0.apk). (Sementara tidak aktif)
 
 **_Disclaimer_**  
 _Tidak ada afiliasi ataupun sponsorship pada link terkait. Link tersebut hanya menjadi tempat hosting halaman download dan file aplikasi Gampah._
